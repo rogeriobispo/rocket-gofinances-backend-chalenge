@@ -1,7 +1,7 @@
 ## desafio rocketseat RocketSeat
 
 
-simple crud api repositóries.
+snall api to control debit and credit operations.
 
 ## rotas
 - post('/transactios')
